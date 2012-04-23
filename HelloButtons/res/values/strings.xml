@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Hello Buttons!</string>
+    <string name="app_name">Hello Buttons</string>
+    <string name="message_start">You have clicked the button 0 times</string>
+    <string name="message_format">You have clicked the button %1$d times</string>
+    <string name="button_label">Press Me!</string>
+</resources>
